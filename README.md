@@ -1,1 +1,4 @@
-"# AIA¥xÆW¤H¤u´¼¼z¾Ç®Õ´Á¤¤¦Ò(CNN)" 
+# AIAå°ç£äººå·¥æ™ºæ…§å­¸æ ¡å½±åƒè¾¨è­˜æœŸä¸­è€ƒ(CNN)ï¼Œé€™æ˜¯ä½¿ç”¨Resnet50
+
+åƒè€ƒ
+https://towardsdatascience.com/neural-network-architectures-156e5bad51ba
